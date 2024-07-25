@@ -16,7 +16,7 @@ Automatic categorization and segmentation of forest cover is of great importance
 **1.** Clone the repository:
 
 ``` shell
-$ git clone https://github.com/sujitnashik/U-Net-Semantic-Segmentation-Aerial-Images.git
+$ git clone https://github.com/SujitNas/U-Net-Semantic-Segmentation-Aerial-Images.git
 $ cd U-Net-Semantic-Segmentation-Aerial-Images.git
 ```
 
