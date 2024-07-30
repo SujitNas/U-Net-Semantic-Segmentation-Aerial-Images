@@ -7,7 +7,8 @@ Automatic categorization and segmentation of forest cover is of great importance
  
 
 
-![download](https://github.com/user-attachments/assets/6b65c328-b357-4d48-84a4-b993db04e629)
+![download](https://github.com/user-attachments/assets/a1da3e99-e96e-41e4-9027-b2d51660bb1c)
+
 
 ---
 
